@@ -8,9 +8,9 @@
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="400" height="400" style="border-radius: 10px;margin-right:10px" height="auto" alt="Class-02" title="Class-02" src="public/home.png" />
-    <img width="400" height="400" style="border-radius: 10px;margin-right:10px" height="auto" alt="Class-02" title="Class-02" src="public/list.png" />
-    <img width="400" height="400" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/remove.png" />
+    <img width="300" height="600" style="border-radius: 10px;margin-right:10px" height="auto" alt="Class-02" title="Class-02" src="public/home.png" />
+    <img width="300" height="600" style="border-radius: 10px;margin-right:10px" height="auto" alt="Class-02" title="Class-02" src="public/list.png" />
+    <img width="300" height="600" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/remove.png" />
 </h1>
 
 ImHere é o projeto desenvolvido durante o curso de React Native da Rocketseat que foca nas tecnologias ReactJS e React Native. Consiste em criar uma aplicação para fazer a adição de pessoas a um determinado evento podendo remover as pessoas que não vão mais participar do evento. Disponível nas plataformas Android e IOS.
